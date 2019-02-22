@@ -1,1 +1,1 @@
-# Laser-Cutter---medium---100W-CO2
+# Laser-Cutter - medium - 100W CO2
