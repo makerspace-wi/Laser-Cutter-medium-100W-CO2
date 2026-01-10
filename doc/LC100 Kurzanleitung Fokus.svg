@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Fokus LC100.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="Fokus LC100 V2.pdf"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3102506"
+     inkscape:cx="487.69296"
+     inkscape:cy="596.45078"
+     inkscape:window-width="1920"
+     inkscape:window-height="1161"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="52.098811,194.31688"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Hexagons"
+       preserveAspectRatio="xMidYMid"
+       id="pattern18"
+       patternTransform="matrix(0.03,0,0,0.03,29.641265,41.047731)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="100"
+       height="87"
+       preserveAspectRatio="xMidYMid"
+       patternTransform="translate(1,1) scale(0.5,0.5)"
+       style="fill:#000000"
+       id="Hexagons"
+       inkscape:label="Honigwaben"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path27"
+         style="stroke:none"
+         d="M 23.246093,0 0,13.382812 V 44.689453 L 0.0839844,44.640625 24.033203,58.505859 24.001953,86.332031 22.841796,87 h 4.478516 L 26.068359,86.275391 26.099609,58.449219 50.083984,44.640625 74.033203,58.505859 74.001953,86.332031 72.841796,87 h 4.478516 L 76.068359,86.275391 76.099609,58.449219 100,44.689453 V 13.365234 L 76.919921,0 H 73.246093 L 50.015625,13.373047 26.919921,0 Z M 25.083984,1.25 49.033203,15.115234 49.001953,42.941406 25.017578,56.75 1.0019531,42.845703 l 0.033203,-27.75 z m 50,0 24.017576,13.904297 -0.0352,27.75 L 75.017578,56.75 51.068359,42.884766 51.099609,15.058594 Z" />
+    </pattern>
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#rect34,0,1|"
+       id="path-effect34" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Hexagons-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern18-4"
+       patternTransform="matrix(0.03,0,0,0.03,29.641264,117.77196)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="100"
+       height="87"
+       preserveAspectRatio="xMidYMid"
+       patternTransform="translate(1,1) scale(0.5,0.5)"
+       style="fill:#000000"
+       id="Hexagons-8"
+       inkscape:label="Honigwaben"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path27-8"
+         style="stroke:none"
+         d="M 23.246093,0 0,13.382812 V 44.689453 L 0.0839844,44.640625 24.033203,58.505859 24.001953,86.332031 22.841796,87 h 4.478516 L 26.068359,86.275391 26.099609,58.449219 50.083984,44.640625 74.033203,58.505859 74.001953,86.332031 72.841796,87 h 4.478516 L 76.068359,86.275391 76.099609,58.449219 100,44.689453 V 13.365234 L 76.919921,0 H 73.246093 L 50.015625,13.373047 26.919921,0 Z M 25.083984,1.25 49.033203,15.115234 49.001953,42.941406 25.017578,56.75 1.0019531,42.845703 l 0.033203,-27.75 z m 50,0 24.017576,13.904297 -0.0352,27.75 L 75.017578,56.75 51.068359,42.884766 51.099609,15.058594 Z" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.1"
+       x="12.66738"
+       y="13.875676"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="13.875676">Zur Fokussierung des Lasers</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="19.095993"
+         id="tspan24" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="23.946693"
+         id="tspan25">Der Laserstrahl ist in einem Abstand von 9 mm - 16 mm vom Laserkopf entfernt gut fokussiert.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="28.797394"
+         id="tspan29" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="33.648094"
+         id="tspan26">Bei einer Werkstückstärke von 3 mm liegt die Mitte des Fokusbereiches dann in der Mitte des </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="38.498795"
+         id="tspan27">Werkstückes, wenn das Abstandsklötzchen &quot;3 mm&quot; auf dem <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1">Werkstück</tspan> liegt und der Laserkopf diesen </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="43.349491"
+         id="tspan31">gerade berührt.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="48.200191"
+         id="tspan32" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.1"
+         x="12.66738"
+         y="53.050892"
+         id="tspan28">Bei anderen Materialstärken entsprechend die anderen Klötzchen verwenden.</tspan></text>
+    <g
+       id="g3">
+      <path
+         d="m 82.911739,70.834581 -12.500152,13.35891 10.892484,11.641082 h 3.215336 l 10.89218,-11.641082 z"
+         style="stroke:none;stroke-width:0.0332667"
+         id="path7" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.0804658"
+         id="rect2"
+         width="25.5"
+         height="26"
+         x="70.161591"
+         y="58.078655" />
+      <path
+         d="m 93.994273,110.98975 h -5.446696 l 2.723348,2.72334 z"
+         style="fill:none;stroke:none;stroke-width:0.1"
+         id="path9" />
+      <rect
+         style="fill:#ccffaa;stroke:none;stroke-width:0.0592918"
+         id="rect9"
+         width="190"
+         height="7"
+         x="15.583328"
+         y="104.86221" />
+      <rect
+         style="fill:url(#pattern18);fill-opacity:1;stroke:#000000;stroke-width:0.292;stroke-dasharray:none"
+         id="rect9-8"
+         width="161.54756"
+         height="20.007109"
+         x="43.929585"
+         y="109.83238" />
+      <rect
+         style="fill:#786721;stroke:none;stroke-width:0.0340234"
+         id="rect9-8-5"
+         width="145.97954"
+         height="3"
+         x="52.141273"
+         y="106.86936" />
+      <rect
+         style="fill:#668000;stroke:none;stroke-width:0.102812"
+         id="rect14"
+         width="40"
+         height="11"
+         x="62.911591"
+         y="95.841072" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+         x="82.913658"
+         y="102.83556"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+           x="82.913658"
+           y="102.83556">&quot;3 mm&quot;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+         x="82.822708"
+         y="69.527336"
+         id="text18-2"><tspan
+           sodipodi:role="line"
+           id="tspan18-2"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+           x="82.822708"
+           y="69.527336">Laser-</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+           x="82.822708"
+           y="74.819"
+           id="tspan22">kopf</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#786721;stroke:#786721;stroke-width:0.1"
+         x="160.08234"
+         y="103.4349"
+         id="text19"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           style="font-size:4.23333px;stroke:#786721;stroke-width:0.1"
+           x="160.08234"
+           y="103.4349">Werkstück Stärke 3 mm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.1"
+         x="122.02853"
+         y="122.31985"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#000000;stroke:#ffffff;stroke-width:0.1"
+           x="122.02853"
+           y="122.31985">Tisch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#338000;stroke:#338000;stroke-width:0.1"
+         x="29.595915"
+         y="109.85255"
+         id="text21"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           style="font-size:4.23333px;fill:#338000;stroke:#338000;stroke-width:0.1"
+           x="29.595915"
+           y="109.85255">Fokusbereich</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#338000;stroke:#ffffff;stroke-width:0.1"
+         x="-108.33205"
+         y="15.257278"
+         id="text21-1"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan21-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#338000;stroke-width:0.1"
+           x="-108.33205"
+           y="15.257278">7 mm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+         x="-101.40222"
+         y="65.610458"
+         id="text21-1-6"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan21-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#ffffff;stroke-width:0.1"
+           x="-101.40222"
+           y="65.610458">11 mm</tspan></text>
+    </g>
+    <path
+       d="m 93.994276,187.71397 h -5.4467 l 2.72335,2.72334 z"
+       style="fill:none;stroke:none;stroke-width:0.1"
+       id="path9-5" />
+    <rect
+       style="fill:#ccffaa;stroke:none;stroke-width:0.0592918"
+       id="rect9-1"
+       width="190"
+       height="7"
+       x="15.583328"
+       y="180.62909" />
+    <rect
+       style="fill:url(#pattern18-4);fill-opacity:1;stroke:#000000;stroke-width:0.292;stroke-dasharray:none"
+       id="rect9-8-7"
+       width="161.54756"
+       height="20.007109"
+       x="43.929581"
+       y="186.55661" />
+    <rect
+       style="fill:#786721;stroke:none;stroke-width:0.0439241"
+       id="rect9-8-5-1"
+       width="145.97954"
+       height="5"
+       x="52.141273"
+       y="181.57426" />
+    <rect
+       style="fill:#668000;stroke:none;stroke-width:0.0980273"
+       id="rect14-1"
+       width="40"
+       height="10"
+       x="62.911583"
+       y="171.55563" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+       x="82.913658"
+       y="179.5598"
+       id="text18-5"><tspan
+         sodipodi:role="line"
+         id="tspan18-27"
+         style="font-size:4.23333px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+         x="82.913658"
+         y="179.5598">&quot;5 mm&quot;</tspan></text>
+    <g
+       id="g4"
+       transform="translate(0,-0.95736661)">
+      <path
+         d="m 82.911736,147.5588 -12.50015,13.35891 10.89248,11.64109 h 3.21534 l 10.89218,-11.64109 z"
+         style="stroke:none;stroke-width:0.0332667"
+         id="path7-4" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.0804658"
+         id="rect2-5"
+         width="25.5"
+         height="26"
+         x="70.161583"
+         y="134.80289" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+         x="82.822701"
+         y="146.25157"
+         id="text18-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan18-2-1"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+           x="82.822701"
+           y="146.25157">Laser-</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+           x="82.822701"
+           y="151.54323"
+           id="tspan22-4">kopf</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#786721;stroke:#786721;stroke-width:0.1"
+       x="160.08232"
+       y="180.15913"
+       id="text19-2"><tspan
+         sodipodi:role="line"
+         id="tspan19-3"
+         style="font-size:4.23333px;stroke:#786721;stroke-width:0.1"
+         x="160.08232"
+         y="180.15913">Werkstück Stärke 5 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.1"
+       x="122.02853"
+       y="199.04408"
+       id="text20-2"><tspan
+         sodipodi:role="line"
+         id="tspan20-2"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#000000;stroke:#ffffff;stroke-width:0.1"
+         x="122.02853"
+         y="199.04408">Tisch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#338000;stroke:#338000;stroke-width:0.1"
+       x="29.595917"
+       y="186.57678"
+       id="text21-16"><tspan
+         sodipodi:role="line"
+         id="tspan21-8"
+         style="font-size:4.23333px;fill:#338000;stroke:#338000;stroke-width:0.1"
+         x="29.595917"
+         y="186.57678">Fokusbereich</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#338000;stroke:#ffffff;stroke-width:0.1"
+       x="-185.05627"
+       y="15.257278"
+       id="text21-1-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan21-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#338000;stroke-width:0.1"
+         x="-185.05627"
+         y="15.257278">7 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+       x="-176.61679"
+       y="65.610458"
+       id="text21-1-6-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan21-1-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#ffffff;stroke-width:0.1"
+         x="-176.61679"
+         y="65.610458">10 mm</tspan></text>
+  </g>
+</svg>
